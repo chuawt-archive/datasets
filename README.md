@@ -33,11 +33,16 @@ _Last retrieved as at 8 Jul 2021._
 - employees (100 rows)
 
 ### Sales_100
-[[Link]](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) I have manually added 4 years to the `Date of Birth` and `Date of Joining` of the original data to update the dataset to year 2021.  
+[[Link]](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) I have manually added 4 years to the `Date of Birth` and `Date of Joining` of the original data to update the dataset to year 2021, and swap the date format to dd/mm/yyyy.    
 1 file, 1 table
 - sales_100 (100 rows)
 
 ### Sales_50000
-[[Link]](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) I have manually added 4 years to the `Date of Birth` and `Date of Joining` of the original data to update the dataset to year 2021.  
+[[Link]](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) I have manually added 4 years to the `Date of Birth` and `Date of Joining` of the original data to update the dataset to year 2021, and swap the date format to dd/mm/yyyy.   
 1 file, 1 table
 - sales_50000 (50,000 rows)
+
+### Sales_5mil
+[[Link]](http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) I have manually added 4 years to the `Date of Birth` and `Date of Joining` of the original data to update the dataset to year 2021, and swap the date format to dd/mm/yyyy.   
+1 file, 1 table [[Kaggle download link]](https://www.kaggle.com/weitat/sample-sales)
+- sales_5000000 (5,000,000 rows)
